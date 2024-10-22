@@ -10,8 +10,9 @@ import view.LoginView;
 import view.SignupView;
 import view.ViewManager;
 
-import javax.swing.*;
 import java.awt.*;
+import javax.swing.*;
+
 
 
 /**
